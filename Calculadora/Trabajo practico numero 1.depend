@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1587165700 source:c:\users\coca colaaaa\desktop\tp1\tp_laboratorio_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1587169898 c:\users\coca colaaaa\desktop\tp1\tp_laboratorio_1\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1587167170 source:c:\users\coca colaaaa\desktop\tp1\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1587165700 source:c:\users\coca colaaaa\desktop\tp1\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1587169898 c:\users\coca colaaaa\desktop\tp1\tp2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1587167170 source:c:\users\coca colaaaa\desktop\tp1\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
